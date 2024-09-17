@@ -26,7 +26,7 @@ int main()
 
 	cout<<endl;
 
-	int x = 10, pos = 2;
+	int x = 10, pos = 4;
 
 	// Function call
 	insertElement(arr, n, x, pos);
